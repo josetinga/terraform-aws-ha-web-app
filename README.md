@@ -10,7 +10,6 @@ The goal of this project is to demonstrate Infrastructure as Code, AWS networkin
 
 Internet traffic flows through the Application Load Balancer and is forwarded to two EC2 web servers running Apache.
 
-```text
 Internet
    ↓
 Application Load Balancer
